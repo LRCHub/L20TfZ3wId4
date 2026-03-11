@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ミルクリスピー",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-03-11T12:44:27.794764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミルクリスピー",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_ミルクリスピー_クリープハイプ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルクリスピー",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_ミルクリスピー_クリープハイプ.txt"
+    }
+  ]
+}
